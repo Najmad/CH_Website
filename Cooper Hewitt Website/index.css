@@ -1,0 +1,26 @@
+body{
+	background-color: black; 
+    
+}
+
+
+
+.logo{
+	height: 15%;
+	width: 15%;
+	float: left;
+
+}
+
+h2{
+	color: white;
+	float: left;
+	padding-left: 55px;
+}
+
+.topnav{
+	font-family: helvetica;
+	font-size: 22pt;
+	
+}
+
